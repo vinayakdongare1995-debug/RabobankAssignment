@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rabobank Assignment (React + TypeScript)
 
 Libraries used-
@@ -22,3 +23,6 @@ Libraries used-
 npm install
 npm run dev
 npm run build
+=======
+# RabobankAssignment
+>>>>>>> d4b1c8fb5a1a5a41d9c7b88cf64d8b77f03f43fc
